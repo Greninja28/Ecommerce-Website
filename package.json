@@ -1,0 +1,14 @@
+{
+  "name": "e-commerce-website",
+  "version": "1.0.0",
+  "description": "This is an E-commerce website named Cara. ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sahej",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
